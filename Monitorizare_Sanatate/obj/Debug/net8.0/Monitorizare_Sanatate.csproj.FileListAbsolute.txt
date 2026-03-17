@@ -1,0 +1,4 @@
+C:\Users\pitud\Desktop\PIU\Monitorizare_Sanatate\Monitorizare_Sanatate\obj\Debug\net8.0\Monitorizare_Sanatate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitud\Desktop\PIU\Monitorizare_Sanatate\Monitorizare_Sanatate\obj\Debug\net8.0\Monitorizare_Sanatate.AssemblyInfoInputs.cache
+C:\Users\pitud\Desktop\PIU\Monitorizare_Sanatate\Monitorizare_Sanatate\obj\Debug\net8.0\Monitorizare_Sanatate.AssemblyInfo.cs
+C:\Users\pitud\Desktop\PIU\Monitorizare_Sanatate\Monitorizare_Sanatate\obj\Debug\net8.0\Monitorizare_Sanatate.csproj.CoreCompileInputs.cache
